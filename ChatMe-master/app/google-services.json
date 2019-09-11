@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975918138602",
+    "firebase_url": "https://chatme-4e807.firebaseio.com",
+    "project_id": "chatme-4e807",
+    "storage_bucket": "chatme-4e807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975918138602:android:79f602de36e24c2acb8393",
+        "android_client_info": {
+          "package_name": "com.nikitagordia.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975918138602-blrnupe2hq0phovlkii7rud7ggd9vm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkj2X5VCx5PdWRWRBVR5-FSVQ_11N1-v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975918138602-blrnupe2hq0phovlkii7rud7ggd9vm7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
